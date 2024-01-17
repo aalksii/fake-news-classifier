@@ -1,10 +1,11 @@
-Token	Stem	Lemma
 Ted	ted	Ted
 Cruz	cruz	Cruz
 is	is	is
 creepy	creepi	creepy
+.	.	.
 Really	realli	Really
 creepy	creepi	creepy
+.	.	.
 So	so	So
 creepy	creepi	creepy
 that	that	that
@@ -24,6 +25,7 @@ a	a	a
 kiss	kiss	kiss
 on	on	on
 her	her	her
+.	.	.
 According	accord	According
 to	to	to
 Cruz	cruz	Cruz
@@ -31,6 +33,7 @@ s	s	s
 former	former	former
 college	colleg	college
 roommate	roommat	roommate
+,	,	,
 he	he	he
 would	would	would
 leave	leav	leave
@@ -50,6 +53,7 @@ people	peopl	people
 who	who	who
 hated	hate	hated
 him	him	him
+,	,	,
 which	which	which
 is	is	is
 pretty	pretti	pretty
@@ -60,7 +64,9 @@ has	has	ha
 ever	ever	ever
 met	met	met
 him	him	him
+.	.	.
 Cruz	cruz	Cruz
+,	,	,
 a	a	a
 man	man	man
 who	who	who
@@ -76,6 +82,7 @@ in	in	in
 a	a	a
 paisley	paisley	paisley
 robe	robe	robe
+,	,	,
 is	is	is
 deeply	deepli	deeply
 disturbing	disturb	disturbing
@@ -85,6 +92,7 @@ ways	way	way
 including	includ	including
 his	his	his
 face	face	face
+,	,	,
 the	the	the
 unsettling	unsettl	unsettling
 nature	natur	nature
@@ -98,6 +106,7 @@ of	of	of
 study	studi	study
 among	among	among
 neurologists	neurologist	neurologist
+.	.	.
 Even	even	Even
 his	his	his
 own	own	own
@@ -112,6 +121,7 @@ the	the	the
 cameras	camera	camera
 On	on	On
 thursday	thursday	thursday
+,	,	,
 Gawker	gawker	Gawker
 released	releas	released
 a	a	a
@@ -130,6 +140,7 @@ Super	super	Super
 Tuesday	tuesday	Tuesday
 victory	victori	victory
 speech	speech	speech
+,	,	,
 though	though	though
 they	they	they
 note	note	note
@@ -151,6 +162,7 @@ during	dure	during
 his	his	his
 presidential	presidenti	presidential
 run	run	run
+,	,	,
 every	everi	every
 last	last	last
 applause	applaus	applause
@@ -160,10 +172,13 @@ punctuated	punctuat	punctuated
 with	with	with
 this	this	this
 bizarre	bizarr	bizarre
+,	,	,
 stifled	stifl	stifled
+,	,	,
 lip	lip	lip
 -biting	-bite	-biting
 smirk	smirk	smirk
+.	.	.
 This	this	This
 weird	weird	weird
 facial	facial	facial
@@ -183,6 +198,7 @@ do	do	do
 on	on	on
 Grebulon	grebulon	Grebulon
 5	5	5
+,	,	,
 this	this	this
 would	would	would
 be	be	be
@@ -193,6 +209,7 @@ challenge	challeng	challenge
 to	to	to
 a	a	a
 duel	duel	duel
+,	,	,
 so	so	so
 it	it	it
 does	doe	doe
@@ -203,6 +220,7 @@ to	to	to
 the	the	the
 Texas	texa	Texas
 Senator	senat	Senator
+,	,	,
 or	or	or
 keep	keep	keep
 something	someth	something
@@ -210,6 +228,7 @@ inside	insid	inside
 him	him	him
 from	from	from
 escaping	escap	escaping
+.	.	.
 Cruz	cruz	Cruz
 s	s	s
 mouth	mouth	mouth
@@ -241,6 +260,7 @@ landed	land	landed
 on	on	on
 his	his	his
 lip	lip	lip
+.	.	.
 Staring	stare	Staring
 at	at	at
 Ted	ted	Ted
@@ -266,17 +286,22 @@ damage	damag	damage
 to	to	to
 the	the	the
 eyes	eye	eye
+,	,	,
 brain	brain	brain
+,	,	,
 and	and	and
 liver	liver	liver
+,	,	,
 under	under	under
 normal	normal	normal
 circumstances	circumst	circumstance
+.	.	.
 But	but	But
 after	after	after
 watching	watch	watching
 this	this	this
 video	video	video
+,	,	,
 even	even	even
 those	those	those
 few	few	few
@@ -286,6 +311,7 @@ be	be	be
 a	a	a
 nauseating	nauseat	nauseating
 experience	experi	experience
+.	.	.
 Watch	watch	Watch
 the	the	the
 video	video	video
@@ -303,6 +329,7 @@ MORE	more	MORE
 THAN	than	THAN
 THREE	three	THREE
 SECONDS	second	SECONDS
+.	.	.
 Featured	featur	Featured
 image	imag	image
 via	via	via
