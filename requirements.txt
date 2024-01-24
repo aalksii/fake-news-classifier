@@ -1,0 +1,10 @@
+nltk
+gensim
+openai
+evaluate
+llama-cpp-python
+pinecone-client
+langchain==0.0.300
+chromadb==0.4.12
+sentence-transformers==2.2.2
+chromadb
